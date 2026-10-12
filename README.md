@@ -1,7 +1,9 @@
 # **대구의 역사**
 - 작성자 : 사학과 20학번 진명원
 
-![대구 경상감영지 전경](https://www.heritage.go.kr/heri/cul/imgHeritage.do?ccimId=4126743&ccbaKdcd=13&ccbaAsno=0005380000000&ccbaCtcd=22)
+![대구 경상감영지 전경](History-main.jpg)
+
+[ ] 이미지 크기 조정필요
 ---
 
 ## 1. 한반도에서 대구의 첫 등장
