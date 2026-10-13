@@ -39,3 +39,6 @@
 
 ---
 ## 참고자료
+### [대구광역시 역사-대구시청](https://www.daegu.go.kr/index.do?menu_id=00000264)
+### [대구광역시-한국민족문화대백과사전](https://www.daegu.go.kr/index.do?menu_id=00000264)
+### [한국사데이터베이스](https://db.history.go.kr/)
