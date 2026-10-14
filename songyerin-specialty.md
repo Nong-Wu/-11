@@ -10,7 +10,7 @@
 ### 현황
 
 ## **포도**
-<img width="924" height="512" alt="포도" src="https://github.com/user-attachments/assets/5b3e43b7-ecc6-4673-88a6-db6713149004" />
+<img width="512" height="512" alt="포도" src="https://github.com/user-attachments/assets/5b3e43b7-ecc6-4673-88a6-db6713149004" />
 
 ### 연원
 
@@ -19,7 +19,7 @@
 ### 현황
 
 ## **연근**
-<img width="446" height="281" alt="연근" src="https://github.com/user-attachments/assets/d0c0af6b-e433-4ca7-9b12-a2e622aedba7" />
+<img width="512" height="512" alt="연근" src="https://github.com/user-attachments/assets/d0c0af6b-e433-4ca7-9b12-a2e622aedba7" />
 
 ### 연원
 
