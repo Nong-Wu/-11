@@ -10,11 +10,8 @@ ex.치안 유지, 교통 지원
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyMzA4MjNfMzAw/MDAxNjkyNzcyODM0MDc5.mZGt1uGd2Vt9vHUMpCBi_dA5tIgNWW0OeJbKmAqy350g.pACNHVqlsZwAg-aIALdMY5o6QhiGv_m0cO-nWPXsa3Ag.JPEG.gokseong_love/%EA%B3%B5%EC%9C%A0%EB%88%84%EB%A6%AC1.jpg?type=w800" alt="공유누리 서비스 알고계시나요? : 네이버 블로그">
 
 ### 복지시설과 지원 정책  
-대구의 복지시설 지원 정책은 돌봄공백 해소와 맞춤형 복지 인프라 강화를 중심으로 운영하고 있습니다. 
+대구의 복지시설 지원 정책은 돌봄공백 해소와 맞춤형 복지 인프라 강화를 중심으로 운영하고 있습니다.   
 ex.통합 돌봄 지원-‘단디 돌봄’ 정책 추진:보건의료, 건강관리, 생활지원 서비스 통합제공  
-<img src="https://cdn.ynenews.kr/news/photo/202604/77478_70581_4722.jpg" alt="대구형 통합돌봄 &#39;단디돌봄&#39;, &quot;시행 한 달 만에 750건 서비스 연계 성과&quot; &lt; 대구 &lt; 지역 &lt; 기사본문 - 영남경제"/><img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/12858b14-f9cb-433f-bb05-3017df277e0b" />
-
-### 도서관, 문화시설 접근성  
-도서관 서비스권역 비율:대구시의 도보 10분 거리를 기준 도서관 서비스권역 내 인구 비율은 57.3%로 전국 평균(59.1%)보다 낮습니다.  
-### 인구 대비 문화 시설 수  
-대구의 인구 10만 명당 문화기반 시설 수는 4.5개로, 전국 과제 평균(6.5)개보다 낮습니다.
+단디돌봄의 프로그램으로는 건강돌봄단 방문진료, 병원동행 서비스,이웃 멘토링 등이 있습니다.
+<img src="https://cdn.ynenews.kr/news/photo/202604/77478_70581_4722.jpg" alt="대구형 통합돌봄 &#39;단디돌봄&#39;, &quot;시행 한 달 만에 750건 서비스 연계 성과&quot; &lt; 대구 &lt; 지역 &lt; 기사본문 - 영남경제"/>
+### 도서관
