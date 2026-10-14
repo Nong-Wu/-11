@@ -12,7 +12,7 @@
 - **2호선:** 대구 서부와 동부의 주요 생활권을 연결하는 노선이다.
 - **3호선:** 북쪽 지역과 도심을 거쳐 수성구 방면을 연결하는 지상 고가 모노레일 노선이다.
 
-- ![대구 도시철도 노선도](https://www.daegu.go.kr/cmsh/daegu.go.kr/tra/images/content/img_subway.png)
+ ![대구 도시철도 노선도](https://www.daegu.go.kr/cmsh/daegu.go.kr/tra/images/content/img_subway.png)
 
 출처: [대구광역시 공식 홈페이지](https://www.daegu.go.kr/cmsh/daegu.go.kr/tra/images/content/img_subway.png)
 
@@ -35,7 +35,7 @@
 - **일반버스:** 다양한 생활권과 주요 시설을 연결하는 기본적인 시내버스이다.
 - **급행버스:** 주요 거점을 중심으로 운행하여 상대적으로 빠른 이동을 지원하는 버스 유형이다.
 
-- ![대구 시내버스 사진](https://cdn.kyongbuk.co.kr/news/photo/201507/930232_219965_0124.jpg)
+<img src="https://cdn.kyongbuk.co.kr/news/photo/201507/930232_219965_0124.jpg" alt="대구 교통 관련 사진" width="300">
 
 출처: [경북일보](https://cdn.kyongbuk.co.kr/news/photo/201507/930232_219965_0124.jpg)
 
