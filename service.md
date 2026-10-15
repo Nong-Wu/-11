@@ -1,4 +1,4 @@
-# 대구의 공공서비스  
+# 대구의 공공서비스와 다양한 예시 
 ## 목차  
 공공서비스의 정의  
 복지시설과 지원 정책  
@@ -6,8 +6,12 @@
 종합분석 및 느낀점
 ### 공공서비스의 정의  
 공공서비스(Public Service)란 국가, 지방자치단체 또는 공공기관이 국민 전체의 복지 향상과 삶의 질 개선, 사회 공동체의 이익을 위하여 제공하는 유·무형의 재화와 용역을 뜻합니다.  
+-공익성: 개인의 사적 이익이 아닌 사회 공동체 전체의 이익과 행복을 추구합니다.  
+-보편성: 소득, 신체 능력, 지위에 관계없이 모든 사회 구성원이 누릴 수 있는 기본적 권리를 바탕으로 합니다.  
+-공급 주체: 주로 정부나 공공기관이 직접 운영하지만, 공공 재정의 지원을 받는 민간 기업이나 비영리 단체가 대신 제공하기도 합니다.   
+
 ex.치안 유지, 교통 지원  
-<img src="https://mblogthumb-phinf.pstatic.net/MjAyMzA4MjNfMzAw/MDAxNjkyNzcyODM0MDc5.mZGt1uGd2Vt9vHUMpCBi_dA5tIgNWW0OeJbKmAqy350g.pACNHVqlsZwAg-aIALdMY5o6QhiGv_m0cO-nWPXsa3Ag.JPEG.gokseong_love/%EA%B3%B5%EC%9C%A0%EB%88%84%EB%A6%AC1.jpg?type=w800" alt="공유누리 서비스 알고계시나요? : 네이버 블로그">
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a31a61d4-ad60-4acc-afcc-2e025c64e744" />
 
 ### 복지시설과 지원 정책  
 대구의 복지시설 지원 정책은 돌봄공백 해소와 맞춤형 복지 인프라 강화를 중심으로 운영하고 있습니다.   
