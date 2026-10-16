@@ -1,4 +1,4 @@
-# 대구의 공공서비스와 다양한 예시 
+# 대구의 공공서비스와 대표 예
 ## 목차  
 공공서비스의 정의  
 복지시설과 지원 정책  
@@ -17,9 +17,10 @@ ex.치안 유지, 교통 지원
 대구의 복지시설 지원 정책은 돌봄공백 해소와 맞춤형 복지 인프라 강화를 중심으로 운영하고 있습니다.   
 ex 1.통합 돌봄 지원-‘단디 돌봄’ 정책 추진:보건의료, 건강관리, 생활지원 서비스 통합제공  
 단디돌봄의 프로그램으로는 건강돌봄단 방문진료, 병원동행 서비스,이웃 멘토링 등이 있습니다.
-<img src="https://cdn.ynenews.kr/news/photo/202604/77478_70581_4722.jpg" alt="대구형 통합돌봄 &#39;단디돌봄&#39;, &quot;시행 한 달 만에 750건 서비스 연계 성과&quot; &lt; 대구 &lt; 지역 &lt; 기사본문 - 영남경제"/>  
-ex 2.의료 및 주거 개선-장기요양 재택의료센터 운영을 다각화하고, 고령자 전용 주거 공간 확충 및 스마트 주거환경 개선을 지원합니다.  
+<img src="https://cdn.ynenews.kr/news/photo/202604/77478_70581_4722.jpg" alt="대구형 통합돌봄 &#39;단디돌봄&#39;, &quot;시행 한 달 만에 750건 서비스 연계 성과&quot; &lt; 대구 &lt; 지역 &lt; 기사본문 - 영남경제"/> 
 
+ex 2.의료 및 주거 개선-장기요양 재택의료센터 운영을 다각화하고, 고령자 전용 주거 공간 확충을 지원합니다.  
+복지, 보건, 주거, 일자리를 개별적으로 제공하던 기존 방식에서 벗어나 "살던 곳에서(Aging in Place) 지속가능한 삶을 유지하도록 하나로 묶어 제공하는 종합 프레임워크"입니다.
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/90313ed6-c5f5-45b5-8159-f7a5abe9f9af" />
 
 ### 도서관, 문화시설 접근성  
@@ -38,5 +39,6 @@ ex 2.의료 및 주거 개선-장기요양 재택의료센터 운영을 다각�
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6ef1a5df-1abf-4747-a9ae-fc7f36917446" />
 
 
-출처:https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077425   
+출처:https://www.eshare.go.kr/UserPortal/Upm/Main/index.do  
+https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077425   
 https://dsjobplus.daegu.kr/31/?bmode=view&idx=170572525
