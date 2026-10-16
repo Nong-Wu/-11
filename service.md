@@ -41,7 +41,9 @@ ex 2.의료 및 주거 개선-장기요양 재택의료센터 운영을 다각�
 ### 종합분석 및 느낀점
 대구에는 다양한 공공서비스가 자리 잡고 있다. 일반인부터, 노인, 어린이까지 다양한 공공헤택을 누릴 수 있습니다.  
 단디돌봄이라는 정책부터 온라인 누리집으로 쉽게 공공서비스 혜택을 찾아볼 수 있다.  
-도서관 등 문화시설의 인프라 규모 수준과 향유수준을 파악할 수 있었다.
+도서관 등 문화시설의 인프라 규모 수준과 향유수준을 파악할 수 있었다.  
+물리적 접근성의 필요를 느꼈다.
+
 출처:https://www.eshare.go.kr/UserPortal/Upm/Main/index.do  
 https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077425   
 https://dsjobplus.daegu.kr/31/?bmode=view&idx=170572525  
