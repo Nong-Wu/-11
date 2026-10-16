@@ -38,7 +38,8 @@ ex 2.의료 및 주거 개선-장기요양 재택의료센터 운영을 다각�
  대구는 이러한 접근성 격차를 줄이기 위해 권역별 문화·도서관 거점 조성, 디지털 도서 서비스 확대 등을 추진하고 있으나, 모든 시민이 동등한 문화 혜택을 누리기 위해서는 균형 있는 인프라 투자가 앞으로의 주요 과제로 남아 있습니다.
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6ef1a5df-1abf-4747-a9ae-fc7f36917446" />
 
-
+### 종합분석 및 느낀점
+대구에는 다양한 공공서비스가 자리 잡고 있다. 일반인부터, 노인, 어린이까지 다양한 공공헤택을 누릴 수 있다.
 출처:https://www.eshare.go.kr/UserPortal/Upm/Main/index.do  
 https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077425   
 https://dsjobplus.daegu.kr/31/?bmode=view&idx=170572525  
