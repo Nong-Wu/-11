@@ -38,3 +38,5 @@ ex 2.의료 및 주거 개선-장기요양 재택의료센터 운영을 다각�
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6ef1a5df-1abf-4747-a9ae-fc7f36917446" />
 
 
+출처:https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077425   
+https://dsjobplus.daegu.kr/31/?bmode=view&idx=170572525
