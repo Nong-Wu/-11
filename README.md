@@ -15,7 +15,7 @@
 | 이진수 | 교통 생활 인프라 | 발표 | 
 | 김시원 | 관광지 | 프레젠테이션 |
 | 황현정 | 공공서비스 | 프레젠테이션 |
-| 송예린 | 농업 특산물 | README 파일 |
+| 송예린 | 특산물 | README 파일 |
 | 진명원 | 대구 지역사 | README 파일 |
 | 허재경 | 교육복지 | README 파일 |
 
@@ -34,17 +34,17 @@
 
 
 ### 대구의 공공서비스와 대표 예시 [service](https://github.com/Nong-Wu/-11/blob/main/service.md)
-(
+(공공서비스 정의와 복지시설 지원정책 및 문화시설 접근성 중심으로)
 
 
 
 ### 대구의 대표 특산물 [specialty](https://github.com/Nong-Wu/-11/blob/main/specialty.md)
-(
+(사과, 포도, 연근의 연원, 지리적 생산적 특징, 관련 사업 중심으로)
 
 
 
 ### 대구의 역사 [history](https://github.com/Nong-Wu/-11/blob/main/History.md)
-(
+(대구의 등장과 삼국시대부터 근현대까지 시대별 대구의 역사 중심으로)
 
 
 
