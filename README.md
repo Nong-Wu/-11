@@ -26,10 +26,14 @@
 ### 대구의 대중교통 [public-transportation](https://github.com/Nong-Wu/-11/blob/b8801151e884f90f65ee0af5d24548652b8e28cd/public-transportation.md)
 (도시철도, 시내버스를 중심으로)
 
+<img width="612" height="306" alt="image" src="https://github.com/user-attachments/assets/372babc8-14b7-4c93-91c4-137cc6cd569b" />
+
 
 
 ### 대구의 관광지 소개 및 분석 [tourist attraction](https://github.com/Nong-Wu/-11/blob/b8801151e884f90f65ee0af5d24548652b8e28cd/tourist%20attraction.md)
 (역사적, 자연적, 생태적, 도심·문화 관광지를 중심으로)
+
+<img width="612" height="419" alt="image" src="https://github.com/user-attachments/assets/56f7a035-29f8-4d41-95be-2923f1f731ed" />
 
 
 
@@ -56,3 +60,7 @@
 
 ### 대구의 교육복지 [education policy](https://github.com/Nong-Wu/-11/blob/aaaae9ad7306434bfd532e4dbb3601d7a91f67a6/education%20policy.md)
 (고교학비지원, 교육복지 우선지원, 대구평생학습포털을 중심으로)
+
+<img width="612" height="358" alt="image" src="https://github.com/user-attachments/assets/82e7c745-b66c-49ee-b393-9a4352aa6371" />
+
+
