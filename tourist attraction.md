@@ -74,6 +74,7 @@
 <img width="4320" height="2892" alt="Screenshot_20261016_020216_NAVER" src="https://github.com/user-attachments/assets/f0e2a4dd-c66a-4767-9ab0-74513b401609" />
 
 > 위치: 대구 수성구 삼덕동 374번지
+
 > 운영시간: 10:00 - 19:00 / 월요일은 정기휴무
 
 - 관람료
