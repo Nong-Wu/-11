@@ -36,15 +36,21 @@
 ### 대구의 공공서비스와 대표 예시 [service](https://github.com/Nong-Wu/-11/blob/main/service.md)
 (공공서비스 정의와 복지시설 지원정책 및 문화시설 접근성 중심으로)
 
+<img width="200" height="200" alt="공공서비스" src="https://github.com/user-attachments/assets/a05af529-be3d-41a3-a70e-2d644a01974c" />
+
 
 
 ### 대구의 대표 특산물 [specialty](https://github.com/Nong-Wu/-11/blob/main/specialty.md)
 (사과, 포도, 연근의 연원, 지리적 생산적 특징, 관련 사업 중심으로)
 
+<img width="325" height="200" alt="특산물" src="https://github.com/user-attachments/assets/fe30a408-9103-4ce5-8373-67aa690e93dd" />
+
 
 
 ### 대구의 역사 [history](https://github.com/Nong-Wu/-11/blob/main/History.md)
 (대구의 등장과 삼국시대부터 근현대까지 시대별 대구의 역사 중심으로)
+
+<img width="300" height="200" alt="역사" src="https://github.com/user-attachments/assets/9f6d8cc4-cab2-4913-9ab9-fbac5230bf2e" />
 
 
 
